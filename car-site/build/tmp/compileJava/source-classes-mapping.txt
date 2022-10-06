@@ -1,0 +1,76 @@
+com/carsite/carsite/web/rest/AuthenticationResource.java
+ com.carsite.carsite.web.rest.AuthenticationResource
+com/carsite/carsite/mapper/OrderGroupMapper.java
+ com.carsite.carsite.mapper.OrderGroupMapper
+com/carsite/carsite/config/SwaggerConfig.java
+ com.carsite.carsite.config.SwaggerConfig
+com/carsite/carsite/model/Product.java
+ com.carsite.carsite.model.Product
+com/carsite/carsite/model/Order.java
+ com.carsite.carsite.model.Order
+com/carsite/carsite/dto/LoginCredentialsDTO.java
+ com.carsite.carsite.dto.LoginCredentialsDTO
+com/carsite/carsite/exception/BadRequestException.java
+ com.carsite.carsite.exception.BadRequestException
+com/carsite/carsite/CarSiteApplication.java
+ com.carsite.carsite.CarSiteApplication
+com/carsite/carsite/utils/GlobalExceptionHandler.java
+ com.carsite.carsite.utils.GlobalExceptionHandler
+com/carsite/carsite/dto/ProductDTO.java
+ com.carsite.carsite.dto.ProductDTO
+com/carsite/carsite/service/AuthenticationService.java
+ com.carsite.carsite.service.AuthenticationService
+com/carsite/carsite/respository/UserRepository.java
+ com.carsite.carsite.respository.UserRepository
+com/carsite/carsite/exception/UnauthorizedException.java
+ com.carsite.carsite.exception.UnauthorizedException
+com/carsite/carsite/model/OrderGroup.java
+ com.carsite.carsite.model.OrderGroup
+com/carsite/carsite/mapper/AddressMapper.java
+ com.carsite.carsite.mapper.AddressMapper
+com/carsite/carsite/model/Address.java
+ com.carsite.carsite.model.Address
+com/carsite/carsite/mapper/OrderMapper.java
+ com.carsite.carsite.mapper.OrderMapper
+com/carsite/carsite/service/ProductService.java
+ com.carsite.carsite.service.ProductService
+com/carsite/carsite/exception/UserExistsException.java
+ com.carsite.carsite.exception.UserExistsException
+com/carsite/carsite/respository/OrderRepository.java
+ com.carsite.carsite.respository.OrderRepository
+com/carsite/carsite/respository/AddressRepository.java
+ com.carsite.carsite.respository.AddressRepository
+com/carsite/carsite/model/User.java
+ com.carsite.carsite.model.User
+com/carsite/carsite/dto/AddressDTO.java
+ com.carsite.carsite.dto.AddressDTO
+com/carsite/carsite/web/rest/ProductResource.java
+ com.carsite.carsite.web.rest.ProductResource
+com/carsite/carsite/dto/ExceptionResponseDTO.java
+ com.carsite.carsite.dto.ExceptionResponseDTO
+com/carsite/carsite/web/rest/UserResource.java
+ com.carsite.carsite.web.rest.UserResource
+com/carsite/carsite/exception/NotFoundException.java
+ com.carsite.carsite.exception.NotFoundException
+com/carsite/carsite/dto/OrderGroupDTO.java
+ com.carsite.carsite.dto.OrderGroupDTO
+com/carsite/carsite/respository/ProductRepository.java
+ com.carsite.carsite.respository.ProductRepository
+com/carsite/carsite/dto/UserDTO.java
+ com.carsite.carsite.dto.UserDTO
+com/carsite/carsite/service/UserService.java
+ com.carsite.carsite.service.UserService
+com/carsite/carsite/config/SecurityConfig.java
+ com.carsite.carsite.config.SecurityConfig
+com/carsite/carsite/mapper/UserMapper.java
+ com.carsite.carsite.mapper.UserMapper
+com/carsite/carsite/dto/OrderDTO.java
+ com.carsite.carsite.dto.OrderDTO
+com/carsite/carsite/respository/OrderGroupRepository.java
+ com.carsite.carsite.respository.OrderGroupRepository
+com/carsite/carsite/mapper/ProductMapper.java
+ com.carsite.carsite.mapper.ProductMapper
+com/carsite/carsite/web/rest/OrderResource.java
+ com.carsite.carsite.web.rest.OrderResource
+com/carsite/carsite/service/OrderService.java
+ com.carsite.carsite.service.OrderService

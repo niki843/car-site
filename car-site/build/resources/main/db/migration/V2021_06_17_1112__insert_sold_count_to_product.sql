@@ -1,0 +1,1 @@
+ALTER TABLE IF EXISTS product ADD IF NOT EXISTS sold_count int NOT NULL default 0;

@@ -1,0 +1,1 @@
+ALTER TABLE "user" ADD COLUMN IF NOT EXISTS email VARCHAR(512) NOT NULL default 'test_email@mail.com';

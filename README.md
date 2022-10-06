@@ -1,2 +1,3 @@
 # car-site
-General website for car parts selling
+
+A website for selling car parts
